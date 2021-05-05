@@ -26,4 +26,7 @@ issiunte uzklausa  ir t.t.  (yra virs simto)
 
 */
 
-console.log(`labas, ka tu?`);
+console.log(`Labas, ka tu?`);
+console.log("Zdarova, ar tur rukyt?")
+console.log(12345);
+console.log("Man yr", 39, "metai");
