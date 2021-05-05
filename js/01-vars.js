@@ -1,6 +1,6 @@
 /*
 
-INICIAVIMO BUDAS (keiciamumas ir scope):
+INICIAVIMO BUDAS (kintamuju, keiciamumas ir scope):
 
 1)const - nekeiciama reiksme
 2)let - keiciama reiksme
@@ -42,7 +42,7 @@ const zodynas = ["labas", "rytas","sakau","tau"]
 console.log(zodynas);
 
 
-// objeto: programavimas
+// objetas: programavimas:
 const petras = {
     vardas: "Petras",
     amzius: 99,

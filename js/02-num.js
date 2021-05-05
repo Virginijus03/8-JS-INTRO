@@ -25,6 +25,14 @@ console.log("PVZ", begelybe, begelybeMinus);
 const nesamone = NaN;
 console.log(nesamone);
 
-//NaN pavyzdys kodo
+//NaN pavyzdys: kodas(nelogiskos matematines oprecijos, rezultatas)
 const puseZodzio = "laba" / 2;
 console.log(puseZodzio);
+
+
+const a = 2;
+const b = 3;
+const c = 4;
+
+const d = (a+ b) * c;
+console.log(d);
