@@ -43,26 +43,32 @@ console.log(sarasas3);
 
 
 //veiksmai su kintamaisiais
-const suma = v + k + l;
+const suma = v + k + l; //pirmas budas
 console.log(suma); 
+
+const sumas = 14 + 03 + 83; //antras budas
+console.log(sumas);
 
 /*const suma = mt + mn + dn;
 console.log(suma);*/ 
 
-const sand = 5 * 5;
+const sand = v * k;
 console.log(sand); 
 
-const dal = 5 / 5;
+const dal = v / k;
 console.log(dal); 
 
-const atim = 5 - 5;
+const atim = l - v;
 console.log(atim);
 
 const sarasas4 = "bandau" + " " + "suprasti" + " " + "kaip" + " " + "reik" + " " + "kodint";
 console.log(sarasas4);
 
-const sarasas5 = 14 - 23 + 04 - 05 + 23;
+const sarasas5 = l - v + k - 05 + 23;
 console.log(sarasas5);
+
+const sarasas6 = "bandau" + " " + "suprasti" + " " + "kaip" + " " + "reik" + " " + "kodint"+ ". " + sarasas3;
+console.log(sarasas6);
 
 /*Sujungti sąrašų vertes, kurių tipas yra tekstai,
  nuo sąrašo galo iki pradžios taip, jog tarp jų būtų kablelis ir tarpas.*/
