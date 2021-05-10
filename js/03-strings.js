@@ -59,6 +59,19 @@ const HTML = '<header>\n\
             </header>';
 console.log(HTML);
 
+//kitas pvz su kabutemis sudedant teksta(nerekomenduotinas)
+//(naudoti bactikus)
+const H0  = '<header>' +
+                 '<img>' +
+                 '<nav>' +
+                   '<a></a>' +
+                   '<a></a>' +
+                   '<a></a>' +
+                 '</nav>'
+            '</header>'
+
+
+
 //Backtick(dolerio zenklas veikia tik su backtikais)
 const H2 = ` <header>
                  <img src="${imgSrc}" alt="logo" class="logo">

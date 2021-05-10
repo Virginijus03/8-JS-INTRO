@@ -35,4 +35,32 @@ const b = 3;
 const c = 4;
 
 const d = (a+ b) * c;
-console.log(d);
+
+console.log(a, b, c, d);
+console.log(a, b, c, (a+ b) * c);
+//kitas variantas
+console.log(`(${a} + ${b}) * ${c} = ${d}`);
+
+const x = 2 * 4 / 8;
+const y = 2 / 4 * 8;
+
+console.log(x);
+console.log(y);
+
+console.log('_____________________');
+
+const angle = 30;
+const sin30 = Math.sin(angle / 180 * Math.PI);
+console.log(sin30);
+
+//saknies traukimas
+console.log(Math.sqrt(81));
+
+//pakelti laispniu
+console.log(Math.pow(2, 3));
+console.log(2 ** 3);
+
+//liekana
+console.log(17 % 5);
+
+//https://en.wikipedia.org/wiki/Sine
