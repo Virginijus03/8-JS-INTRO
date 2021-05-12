@@ -43,7 +43,6 @@ function milk(dienosUzsakymai, porcijosDydis, gaunamasPienas){
     }
     if(dienosUzsakymai < 0){
         return 'errrorrr pirmas'
-
     }
     if(typeof porcijosDydis !== 'number'){
         return 'errrorrr antras';
